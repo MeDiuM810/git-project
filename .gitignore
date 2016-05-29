@@ -2,3 +2,5 @@
 logs/
 # txt=files
 docs/*.txt
+#desktop
+*.ini
